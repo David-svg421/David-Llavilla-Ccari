@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>David Cristian Llavilla Ccari</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #87CEFA; /* Gris Metalico */
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            max-width: 700px;
+            width: 100%;
+        }
+
+        h1 {
+            color: #1b2a49;
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+
+        .biografia {
+            text-align: left;
+            margin-top: 30px;
+            font-size: 18px;
+            color: #333;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>¡Hola! Soy <span style="color:#1b2a49;">David Llavilla</span></h1>
+
+        <div class="biografia">
+            <p>Soy alumno de la <strong>Universidad Católica San Pablo</strong>, de Arequipa, Perú.</p>
+            <p>Vivo en <strong>Miraflores</strong>, me gustan mucho las finanzas y administro las cuentas de mi negocio familiar.</p>
+            <p><strong>Mis hobbies</strong> son:</p>
+            <ul>
+                <li>Hacer deporte</li>
+                <li>Escuchar música</li>
+                <li>La natación</li>
+            </ul>
+            <h2>Cursos que estoy cursando:</h2>
+            <ul>
+                <li>Análisis Financiero ADM3-5</li>
+               <br>Link a la página del docente: <a href="https://pe.linkedin.com/in/mar%C3%ADa-bel%C3%A9n-bocchio-linares-96846035" target="_blank">!Click aquí¡</a>
+            </li>
+                <li>Cálculo en una Variable ADM3-4</li>
+                <br>Link a la página del docente: <a href="https://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=351770571c155d27537e1a415bed?id_investigador=140259" target="_blank">!Click aquí¡</a>
+            </li>
+                <li>Comportamiendo del Consumidor ADM3-2</li>
+                <br>Link a la página del docente: <a href="https://pe.linkedin.com/in/fabiola-postigo-99996b3b" target="_blank">!Click aquí¡</a>
+            </li>
+                <li>Historia de Occidente I ADM3-4</li>
+                <br>Link a la página del docente: <a href="https://pe.linkedin.com/in/mario-rommel-arce-espinoza-94585b19a" target="_blank">!Click aquí¡</a>
+            </li>
+                <li>Filosofía de la Naturaleza ADM3-10</li>
+                <br>Link a la página del docente: <a href="https://www.facebook.com/davidluis.mattoneyra/" target="_blank">!Click aquí¡</a>
+            </li>
+                <li>Pensamiento Computacional CCOMP2-1</li>
+                <br>Link a la página del docente: <a href="https://pe.linkedin.com/in/ecuadrosv" target="_blank">!Click aquí¡</a>
+            </li>
+        </ul>
+        </div>
+    </div>
+
+</body>
+</html>
